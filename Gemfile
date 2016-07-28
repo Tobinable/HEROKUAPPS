@@ -40,3 +40,7 @@ gem 'puma'
 
 # Use debugger
 # gem 'debugger', group: [:development, :test]
+gem 'cowsay'
+
+# Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
+#gem 'rails', '4.1.4'
